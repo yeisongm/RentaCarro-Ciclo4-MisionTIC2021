@@ -9,3 +9,4 @@ export * from './solicitud.repository';
 export * from './tipo-vehiculo.repository';
 export * from './usuario.repository';
 export * from './vehiculo.repository';
+
